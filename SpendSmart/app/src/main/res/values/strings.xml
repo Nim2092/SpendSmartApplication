@@ -1,3 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">SpendSmart</string>
+    <string name="welcome_new_user">Welcome new user!</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="monthly_salary">Monthly Salary:</string>
+    <string name="date_of_birth_label">Date of Birth:</string>
+    <string name="options">Options</string>
+    <string name="account">Account</string>
+    <string name="change_password">Change Password</string>
+    <string name="language">Language</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="history">History</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="start">Start</string>
+    <string name="search_transactions">Search transactions</string>
+    <string name="filter_options">Filter options</string>
+    <string name="transaction_details">Transaction Details</string>
+    <string name="share_via_whatsapp">Share via WhatsApp</string>
+    <string name="share_via_facebook">Share via Facebook</string>
+    <string name="share_via_email">Share via Email</string>
+    <string name="share_more">Share more</string>
+    <string name="week_view">Week</string>
+    <string name="month_view">Month</string>
+    <string name="year_view">Year</string>
 </resources>
