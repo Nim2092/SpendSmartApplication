@@ -231,8 +231,8 @@ public class SignInActivity extends AppCompatActivity
     }
 
     @Override
-    public void onBackPressed()
-    {
+    public void onBackPressed() {
+        super.onBackPressed();
         moveTaskToBack(true);
     }
 
